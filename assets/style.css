@@ -14,7 +14,7 @@ footer p{
     text-align: center;
     font-size: 0.6rem;
     height: 2rem;
-    margin-top;0.5rem;
+    margin-top; 0.5rem;
 }
 
 #container{
@@ -31,8 +31,11 @@ footer p{
 }
 
 .cartao__conteudo{
+    background-color: var(--card-front-color);
     text-align: center;
     height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 300MS ease-in-out;
 }
 
 .cartao__conteudo h3{
