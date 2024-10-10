@@ -1,3 +1,5 @@
+
+
 body{
     background-color: bisque;
     font-family: "open sans";      
@@ -46,4 +48,19 @@ footer p{
     margin: 0.6rem;
     border-radius: 0.6rem;
     font-size: 1vw;
+    backface-visibility: hidden;}
+
+.cartao__conteudo p{
+    margin-top: 1rem;
+    padding: 2rem;
+    margin-top: 4rem;
+}
+
+.cartao__conteudo__pergunta p{
+    color: var(--card-front-color);
+    font-weight: 700;
+}
+
+.cartao:hover .cartao__conteudo{
+    transform: rotatey(180deg);
 }
