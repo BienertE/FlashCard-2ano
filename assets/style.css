@@ -1,13 +1,13 @@
 body{
     background: url(img/bg-desktop.webp);
     font-family:"Bai Jamjuree" ;
-    background-color: rgba(5, 145, 147, 0.433);
+    background-color: rgba(242, 133, 0, 0.816);
 }
 
 #container{
     display: flex;
 }
-
+background-color: ;
 .cartao{
     margin: 1rem 1rem;
     height: 20rem;
