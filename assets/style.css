@@ -41,7 +41,7 @@ body{
 .cartao__conteudo__pergunta p{
     color: var(--text-color);
     font-weight: 500; 
-    background-color: rgb(0, 123, 255);
+    background-color: rgb(0, 188, 31);
 }
 .cartao__conteudo__resposta p{
     color: var(--card-back-color);
