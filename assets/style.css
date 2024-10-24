@@ -1,7 +1,7 @@
 body{
     background: url(img/bg-desktop.webp);
     font-family:"Bai Jamjuree" ;
-    background-color: rgb(0, 0, 0);
+    background-color: rgba(25, 0, 255, 0.642);
 }
 
 #container{
